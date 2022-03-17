@@ -22,6 +22,6 @@ Anyway. See y'all around.
 
 -----
 
-`2022-03-16` &nbsp;&nbsp; **\\\\** &nbsp;&nbsp; [[home](./index)]
+`2022-03-16` &nbsp;&nbsp; **\\\\** &nbsp;&nbsp; [[home](https://aaviator42.com/)]
 
 
