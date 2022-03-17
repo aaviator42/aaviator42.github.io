@@ -22,5 +22,5 @@ Anyway. See y'all around.
 
 -----
 
-`2022-03-16` &nbsp;&nbsp; **\\\\** &nbsp;&nbsp; [[home](./index.md)]
+`2022-03-16` &nbsp;&nbsp; **\\\\** &nbsp;&nbsp; [[home](./index)]
 
