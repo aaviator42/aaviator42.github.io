@@ -13,15 +13,13 @@ Anyway. See y'all around.
 
 
 <br>
-<br>
 
 <small>\*Grown Mature Adult Person</small>
 
 <br> 
-<br>
 
 -----
 
-<small>`2022-03-16`</smalll>
+<small>`2022-03-16`</small>
 
 
