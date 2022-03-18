@@ -23,7 +23,7 @@
     </script>
     <!-- End SEO stuff -->
 
-    <link rel="stylesheet" href="/inc/css/style.css">
+    <link rel="stylesheet" id="stylesheet" href="/inc/css/style.css">
     <!-- link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" -->
 
 
@@ -40,10 +40,12 @@
         <small>(<a href="https://aaviator42.com/">home</a>)</small>
     
     </div>
-    <!-- <script src="/inc/js/daaku.js"></script> -->
     <script src="/inc/js/anchor.js"></script>
     <script>
         anchors.add();
+        if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
+            document.getElementById("stylesheet").setAttribute("href", "/inc/css/style2.css");  
+        }
     </script>
 </body>
 
