@@ -11,7 +11,7 @@ Imagine a scenario where you have two stylesheets. One for light mode, and one f
 </script>
 ```
 
-This is what I use to enable dark mode on my blog.
+This is what I use to enable dark mode on this blog.
 
 <br> 
 
