@@ -1,4 +1,4 @@
-### Hello, World?
+### Hello, world?
 
 I used to blog as a tween. Well, I used to set up blogs for myself. I never actually posted on them much. I guess tinkering with obscure PHP CMSs was a lot more fun than actually writing and publishing content, lmao.
 
