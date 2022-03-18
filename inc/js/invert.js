@@ -1,3 +1,4 @@
+//modified from https://sanketmehta7.github.io/DarkMode-JS-BookMark/
 //check if user prefers dark mode
 if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
 
