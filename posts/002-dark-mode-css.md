@@ -2,7 +2,7 @@
 
 Imagine a scenario where you have two stylesheets. One for light mode, and one for dark mode. This snippet automatically switches to the second one if the user's browser is configured for dark mode:
 
-```javascript
+```js
 <link rel="stylesheet" id="stylesheet" href="/style.css">
 <script>
     if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
