@@ -1,7 +1,7 @@
 ### &lt;yes-script&gt;
 
 
-I like to write my webapps in such a manner that people don't need JS to use them. Occasionally, however, there's a feature I want to add (such as a 'copy to clipboard' button) that only works with JS.
+I like to write my webapps in such a manner that users don't *need* JavaScript to use them. Occasionally, however, there's a feature I want to add (such as a 'copy to clipboard' button) that only works with JavaScript.
 
 To make the webapp neater, I only want such elements to be visible if JS is enabled. That's where `yes-script` comes in.
 
@@ -35,8 +35,6 @@ The code:
 	</noscript>
 </body>
 ```
-
-
 This essentially hides everything within `<yes-script>` tags if JS is disabled.
 
 Here's the version that uses classes:
@@ -66,7 +64,7 @@ Here's the version that uses classes:
 </body>
 ```
 
-Get the code at the Github [here](https://github.com/aaviator42/yes-script).
+You can download the code from the Github repo [here](https://github.com/aaviator42/yes-script).
 
 <br>
 
