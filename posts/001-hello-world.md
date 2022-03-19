@@ -6,7 +6,7 @@ Anyway, here I am, many years later, a GMAP*, ready to give this another shot. S
 
 This blog is very possibly going to become yet another way for me to procrastinate on stuff I should actually be focusing on.
 
-I don't really know what I'll be blogging about here. Heh, that's such a 2004 thing to say. Maybe I'll talk about my projects. Or about cool stuff that I find on the internet. Webcomics? Music? Dunno.
+I don't really know what I'll be blogging about here. Heh, that's such a 2004 thing to say. Maybe I'll write about my projects. Or about cool stuff that I find on the internet. Webcomics? Music? Dunno.
 
 Anyway. See y'all around.
 
