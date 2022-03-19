@@ -66,7 +66,9 @@ Here's the version that uses classes:
 </body>
 ```
 
+Get the code at the Github [here](https://github.com/aaviator42/yes-script).
+
 <br>
 
 -------
-`2020-03-18`
+`2022-03-18`
