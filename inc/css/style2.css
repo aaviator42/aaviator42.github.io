@@ -30,6 +30,7 @@ html {
 body {
 	background-color: rgb(31, 31, 31);
 	background-image: none !important;
+	tab-size: 4;
 }
 
 input, select, textarea, button {
