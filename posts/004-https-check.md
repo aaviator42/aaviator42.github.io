@@ -1,4 +1,4 @@
-### Show or hide HTML elements depending on whether or not the connection uses HTTPS.
+### Show or hide HTML elements depending on whether or not the connection uses HTTPS
 
 
 Occasionally, some functionality you want to include on a webpage requires HTTPS (for example, a "copy to clipboard" button that uses the Javascript clipboard API).
