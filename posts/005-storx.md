@@ -31,7 +31,7 @@ echo "User: $username"; //prints 'User: Aavi'
 
 It has functions for writing, modifying, reading, deleting and checking data. Keys can be objects of any class (or simply text/variables/NULL/arrays/etc). 
 
-Take a look at the complete documentation [here](https://github.com/aaviator42/StorX/blob/main/README.md).
+Download the library from [github](https://github.com/aaviator42/StorX) and take a look at the complete documentation [here](https://github.com/aaviator42/StorX/blob/main/README.md).
 
 If you'd like to see a real-world usage example, a simple website hit counter that uses StorX can be found [here](https://github.com/aaviator42/hit-counter/). 
 
